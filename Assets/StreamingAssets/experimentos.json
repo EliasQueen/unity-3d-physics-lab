@@ -1,0 +1,102 @@
+{
+    "Cenas": [
+        {
+            "Id": 1,
+            "Name": "CubicPie",
+            "Title": "Colisão de Cubos",
+            "Image": "CubicPie",
+            "Description": "Este experimento simula a colisão entre dois cubos para calcular PI com precisão até um determinado número de casas decimais.",
+            "Parameters": [
+                {
+                    "Name": "decimal_places",
+                    "DisplayName": "Casas Decimais",
+                    "Description": "Número de casas decimais desejado para a aproximação de PI.",
+                    "Type": "Integer",
+                    "Default": "1"
+                }
+            ]
+        },
+        {
+            "Id": 2,
+            "Name": "Projectile",
+            "Title": "Projétil",
+            "Image": "Projectile",
+            "Description": "Este experimento simula o movimento de um projétil sujeito à gravidade.",
+            "Parameters": [
+                {
+                    "Name": "projectile_speed",
+                    "DisplayName": "Velocidade do Projétil",
+                    "Description": "Velocidade inicial do projétil em metros por segundo (m/s).",
+                    "Type": "Float",
+                    "Default": "10.0f"
+                },
+                {
+                    "Name": "shoot_angle",
+                    "DisplayName": "Ângulo do Projétil",
+                    "Description": "Ângulo sob o qual o projétil será atirado em graus (°).",
+                    "Type": "Float",
+                    "Default": "45.0f"
+                },
+                {
+                    "Name": "initial_height",
+                    "DisplayName": "Altura inicial",
+                    "Description": "Altura inicial do projétil em metros (m).",
+                    "Type": "Float",
+                    "Default": "1.0f"
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "Name": "Pendulum",
+            "Title": "Pêndulo",
+            "Image": "Pendulum",
+            "Description": "Este experimento simula o movimento de um pêndulo simples sob a influência da gravidade.",
+            "Parameters": [
+                {
+                    "Name": "speed",
+                    "DisplayName": "Velocidade do pêndulo",
+                    "Description": "Velocidade do pêndulo em metros por segundo (m/s).",
+                    "Type": "Integer",
+                    "Default": "10"
+                },
+                {
+                    "Name": "air_resistance",
+                    "DisplayName": "Resistência do Ar",
+                    "Description": "Indica se a resistência do ar deve ser considerada na simulação.",
+                    "Type": "Boolean",
+                    "Default": "false"
+                }
+            ]
+        },
+        {
+            "Id": 4,
+            "Name": "FreeFall",
+            "Title": "Queda Livre",
+            "Image": "FreeFall",
+            "Description": "Este experimento simula o movimento de um objeto em queda livre sob a influência exclusiva da gravidade.",
+            "Parameters": [
+                {
+                    "Name": "object_1_mass",
+                    "DisplayName": "Massa do objeto 1",
+                    "Description": "Massa do objeto 1 em quilogramas (kg).",
+                    "Type": "Float",
+                    "Default": "0.01f"
+                },
+                {
+                    "Name": "object_2_mass",
+                    "DisplayName": "Massa do objeto 2",
+                    "Description": "Massa do objeto 2 em quilogramas (kg).",
+                    "Type": "Float",
+                    "Default": "10.0f"
+                }
+            ]
+        },
+        {
+            "Id": -1,
+            "Name": "Menu",
+            "Title": "ID Inválido",
+            "Description": "Erro ao carregar o experimento desejado. Por favor, tente novamente. Qui commodo adipisicing sint ipsum aliquip cillum pariatur ipsum laborum. Eu irure sit irure excepteur elit ad enim et esse excepteur adipisicing. Cupidatat veniam ad tempor irure magna id sunt mollit. Dolore sit velit ex consectetur anim laborum minim mollit incididunt et nostrud laborum sit. Aliqua duis aliqua exercitation fugiat adipisicing anim esse esse ullamco deserunt pariatur. Culpa laborum Lorem ex laborum tempor laborum incididunt consequat. Non Lorem dolor fugiat magna aute incididunt. Cillum dolore ut aliqua et incididunt consectetur dolor dolor. Nostrud qui sunt est sunt do mollit adipisicing. Laborum quis in amet et pariatur deserunt nulla pariatur exercitation laborum. Qui ullamco aliqua sint dolor in irure enim aliqua incididunt non reprehenderit esse. Nisi amet qui elit officia sunt. Ex id fugiat id ex ullamco velit ea adipisicing proident aliquip in ullamco. Excepteur exercitation aliquip ullamco ipsum aliquip cillum fugiat do veniam qui. Irure duis consectetur ad eiusmod magna enim elit esse irure elit. Nulla consequat aliqua Lorem aliqua enim ut magna adipisicing irure eu qui laboris anim. Duis officia occaecat in ullamco qui amet ad irure consequat ad. Proident in velit nostrud cillum. Fugiat anim sit nostrud anim ipsum. Tempor aute esse ullamco enim qui. Ipsum irure cillum aute do sunt velit. Voluptate do consectetur pariatur do adipisicing sunt. Incididunt et tempor mollit dolore. Enim dolor elit aliqua labore nulla aute officia et exercitation aute ex est cillum. Minim exercitation sunt ut in proident veniam est do anim id duis. Laborum mollit non laboris Lorem magna sit voluptate. Elit sint deserunt id exercitation duis dolore aliquip magna fugiat sint sit incididunt. Cupidatat adipisicing enim sit reprehenderit. Veniam aliquip tempor consequat incididunt aliquip est ad minim. Sunt exercitation et mollit deserunt magna ullamco minim nulla ad enim ea. Laborum tempor ex sunt sint sint reprehenderit qui ut sint fugiat reprehenderit sit. Aute ex voluptate in non ipsum exercitation. Nisi tempor pariatur labore ea adipisicing dolor minim quis tempor. Nostrud adipisicing ipsum culpa exercitation pariatur occaecat consectetur culpa aute aute est aliquip elit. Cillum veniam ut do duis irure. Tempor consectetur in excepteur incididunt tempor id laboris ipsum duis cillum. Qui sint nisi aliqua cupidatat cupidatat aliqua consequat commodo. Reprehenderit reprehenderit ea sint tempor nisi cupidatat ipsum aute veniam. Ut sunt labore ipsum consequat consequat deserunt elit qui reprehenderit deserunt occaecat. Eiusmod veniam id ea culpa laborum aliquip velit. Veniam mollit exercitation consectetur quis enim proident. Eu culpa culpa adipisicing occaecat et. Et esse ullamco irure adipisicing aliqua eiusmod ea sunt sint reprehenderit occaecat. Laborum ad laboris consequat ex commodo consequat non. Eu enim esse ut id ea ullamco ex ea eiusmod veniam duis. Mollit sit ipsum sunt laboris aliquip incididunt dolor cillum fugiat. Magna consectetur ipsum reprehenderit excepteur nostrud. Velit sit qui velit ex."
+        }
+    ]
+}
